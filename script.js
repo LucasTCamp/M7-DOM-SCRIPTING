@@ -46,7 +46,6 @@ table.style.border = "2px solid red"; // Red border
 table.style.borderCollapse = "collapse"; // Merge borders
 table.style.width = "70%"; // Set width
 table.style.margin = "30px auto"; // Center table
-table.style.fontFamily = "Arial, sans-serif"; // Set font
 table.style.borderRadius = "10px"; // Round corners
 
 // Adding attributes to the table
